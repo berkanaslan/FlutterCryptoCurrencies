@@ -1,6 +1,14 @@
 # fluttercryptoapp
 
-Flutter altyapısı ile kripto para borsası.
+Cryptocurrency exchange with Flutter.
+It supports more than 120 cryptocurrencies with details.
+How to next:
+1. Editing missing emblems.
+2. Showing favorites
+3. Search improvement
+4. Bloc pattern
+5. New cryptocurrencies.
+
 
 ## Getting Started
 
